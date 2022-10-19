@@ -1,0 +1,16 @@
+.styleLink {
+   text-decoration: none;
+   color: #FFFFFF;
+   font-size: 20px;
+   cursor: pointer;
+   margin-left: 40px;
+   font-weight: bold;
+   transition: all 0.7s;
+   padding: 3px 10px 6px 10px;
+   border-radius: 4px;
+}
+
+.styleLink:hover {
+   background-color: orangered !important;
+   color: #FFFFFF;
+}
